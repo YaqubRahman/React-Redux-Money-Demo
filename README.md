@@ -4,7 +4,7 @@ A simple React-Redux application for depositing and withdrawing money. This proj
 
 ## Features
 
-- Deposity and withdraw money with simple button clicks
+- Deposit and withdraw money with simple button clicks
 - State management handled by Redux
 - Includes reducers and action creators for transaction handling
 - Basic implementation with no styling
