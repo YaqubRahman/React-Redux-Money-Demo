@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Redux Example
+
+A simple React-Redux application for depositing and withdrawing money. This project demonstrates Redux concepts such as reducers and action creators in a minimal, straightforward example.
+
+## Features
+
+- Deposity and withdraw money with simple button clicks
+- State management handled by Redux
+- Includes reducers and action creators for transaction handling
+- Basic implementation with no styling
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
